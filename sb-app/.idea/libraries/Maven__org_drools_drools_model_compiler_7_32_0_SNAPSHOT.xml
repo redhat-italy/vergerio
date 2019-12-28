@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.drools:drools-model-compiler:7.32.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-model-compiler/7.32.0-SNAPSHOT/drools-model-compiler-7.32.0-20191220.162533-35.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-model-compiler/7.32.0-SNAPSHOT/drools-model-compiler-7.32.0-20191220.162533-35-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-model-compiler/7.32.0-SNAPSHOT/drools-model-compiler-7.32.0-20191220.162533-35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

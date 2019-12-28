@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.optaplanner:optaplanner-spring-boot-autoconfigure:7.32.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/optaplanner/optaplanner-spring-boot-autoconfigure/7.32.0-SNAPSHOT/optaplanner-spring-boot-autoconfigure-7.32.0-20191223.172223-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/optaplanner/optaplanner-spring-boot-autoconfigure/7.32.0-SNAPSHOT/optaplanner-spring-boot-autoconfigure-7.32.0-20191223.172223-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/optaplanner/optaplanner-spring-boot-autoconfigure/7.32.0-SNAPSHOT/optaplanner-spring-boot-autoconfigure-7.32.0-20191223.172223-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

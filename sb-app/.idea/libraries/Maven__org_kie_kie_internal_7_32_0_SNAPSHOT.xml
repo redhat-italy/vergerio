@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kie:kie-internal:7.32.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-internal/7.32.0-SNAPSHOT/kie-internal-7.32.0-20191220.155838-21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-internal/7.32.0-SNAPSHOT/kie-internal-7.32.0-20191220.155838-21-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-internal/7.32.0-SNAPSHOT/kie-internal-7.32.0-20191220.155838-21-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

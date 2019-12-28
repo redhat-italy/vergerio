@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.drools:drools-canonical-model:7.32.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-canonical-model/7.32.0-SNAPSHOT/drools-canonical-model-7.32.0-20191220.162202-35.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-canonical-model/7.32.0-SNAPSHOT/drools-canonical-model-7.32.0-20191220.162202-35-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/drools/drools-canonical-model/7.32.0-SNAPSHOT/drools-canonical-model-7.32.0-20191220.162202-35-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
